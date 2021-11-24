@@ -1,0 +1,23 @@
+.banner{
+
+	background-image:  linear-gradient(-215deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.2) 50%) ,  url(../../images/fb_thesimpsons.jpg);
+	color: white
+	padding: 100pX 100px ;
+	width: 1400px;
+	height: 400px;
+	background-size : cover ;
+	background-position: center;
+}
+
+.banner h1 {
+
+	font-size: 60px;
+	color: black;
+	text-decoration: underline;
+	margin-bottom: 60px
+
+}
+
+
+
+
